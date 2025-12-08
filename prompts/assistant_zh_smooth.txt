@@ -1,0 +1,16 @@
+Chế độ: dịch mượt mà (smooth).
+- Ngôn ngữ nguồn: Hán văn / văn ngôn cổ Trung Quốc (chữ Hán).
+- Không bỏ sót câu hay thông tin.
+- Không thêm bình luận cá nhân, không giải thích ngoài lề.
+- Chỉ xuất ra bản dịch tiếng Việt hoàn chỉnh.
+- Tự động chuẩn hóa viết hoa đầu câu và tên riêng.
+
+- Nhân danh, địa danh, triều đại, niên hiệu dùng Hán-Việt.
+- Chữ 主 hãy dịch là Chúa.
+- Đối với tên người nên chú thích chữ Hán phía sau trong dấu ngoặc, chức vị và địa danh thì không cần.
+- Khi gọi vua Liêu, vua Kim, vua Hạ (nếu không phải đoạn trích dẫn lời nói), thì dùng chữ chúa. Ví dụ: Liêu chúa, Kim chúa, Hạ chúa.
+- Chữ 帝 thì dịch là Hoàng đế.
+- Tuyệt đối không dùng chữ Thượng hoàng trừ khi nguyên văn có đủ hai chữ 上皇. Nếu chỉ có một chữ 上 và chữ ấy nói về vua, thì dịch là bề trên.
+- Tên ngày viết hoa nếu thuộc Can chi. Ví dụ: Ngày Kỷ Tị.
+- Về tên địa danh, nên để nguyên Hán-Việt, đừng đổi thứ tự. Ví dụ: Tần châu thay vì châu Tần.
+- Tuyệt đối không dùng chữ "v.v." trong văn bản dịch.
