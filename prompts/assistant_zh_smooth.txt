@@ -1,16 +1,82 @@
-Chế độ: dịch mượt mà (smooth).
-- Ngôn ngữ nguồn: Hán văn / văn ngôn cổ Trung Quốc (chữ Hán).
-- Không bỏ sót câu hay thông tin.
-- Không thêm bình luận cá nhân, không giải thích ngoài lề.
-- Chỉ xuất ra bản dịch tiếng Việt hoàn chỉnh.
-- Tự động chuẩn hóa viết hoa đầu câu và tên riêng.
+VÍ DỤ THAM KHẢO CÁCH HÀNH VĂN
+Nguyên văn:
+欽宗恭文順德仁孝皇帝靖康元年〈（金天會四年）〉
 
-- Nhân danh, địa danh, triều đại, niên hiệu dùng Hán-Việt.
-- Chữ 主 hãy dịch là Chúa.
-- Đối với tên người nên chú thích chữ Hán phía sau trong dấu ngoặc, chức vị và địa danh thì không cần.
-- Khi gọi vua Liêu, vua Kim, vua Hạ (nếu không phải đoạn trích dẫn lời nói), thì dùng chữ chúa. Ví dụ: Liêu chúa, Kim chúa, Hạ chúa.
-- Chữ 帝 thì dịch là Hoàng đế.
-- Tuyệt đối không dùng chữ Thượng hoàng trừ khi nguyên văn có đủ hai chữ 上皇. Nếu chỉ có một chữ 上 và chữ ấy nói về vua, thì dịch là bề trên.
-- Tên ngày viết hoa nếu thuộc Can chi. Ví dụ: Ngày Kỷ Tị.
-- Về tên địa danh, nên để nguyên Hán-Việt, đừng đổi thứ tự. Ví dụ: Tần châu thay vì châu Tần.
-- Tuyệt đối không dùng chữ "v.v." trong văn bản dịch.
+春，正月，戊辰朔，遼主如混同江。
+
+辛未，降天章閣待制、權知鳳翔府滕宗諒知虢州，職如故；並代副部署張亢為本路鈐轄。宗諒及亢皆置獄邠州，獄未具而有是命，從參知政事范仲淹言也。
+
+先是仲淹力辯宗諒、亢等非有大過，乞免下獄。及是又言：「燕度勘到滕宗諒所用錢數分明，並無侵欺入己。張亢借公用錢買物，事未發前，已還納訖。又因移任借卻公用銀，卻留錢物准還，皆無欺隱之情。」宗諒及亢由是得免重劾。
+
+壬申，西蕃摩戩入貢。
+
+乙亥，荊王元儼薨。元儼性謹約寡欲，喜儒學，好文詞。嘗問詡善王渙曰：「元昊平未？」對曰：「未也。」曰：「如此，安用宰相！」及病，帝親至臥內，手調藥，屏人語久之，所獻多忠言。及薨，贈天策上將軍、徐、兗二州牧、燕王，諡恭肅。
+
+丙戌，詔：「自今臣僚毋得以奏薦恩澤及所授命，為親屬乞賜科名及轉官、升陟入通判以上差遣，其親屬嘗降官、降差遣，亦毋得乞以恩澤牽復；若因累而為別更名奏廕者，重坐之。」
+
+辛卯，太常禮院上新修《太常新禮》、《慶曆祀儀》；賜提舉、編修官器幣有差。
+
+二月，丙申，遣內侍齎奉宸庫銀三萬兩下陝西，博糴穀麥以濟饑民。
+
+壬寅，知光化軍韓綱，除名英州編管，兵馬監押許士從，追三官舒州編管，坐棄城也。
+
+廣西宜州蠻區希範作亂。希范，思恩人，狡黠，頗知書，嘗舉進士試禮部。景祐末，與其叔正辭應募從官軍討安化州叛蠻。既而希范擊登聞鼓求錄用，事下宜州，知州馮伸己言其妄，編管全州。正辭亦嘗自言其功，不報。二人皆缺望。希範後輒遁歸，與正辭率其族人及白崖山酋蒙趕、荔波洞蠻謀為亂，擇日殺牛，建壇場，祭天神，推蒙趕為帝，正辭為奉天開動建國桂王，希范仲神武定國令公、桂州牧，以區丕績為宰相，餘皆偽立名號，補署四十餘人。前月丙子，率眾五百破環州，劫州印，焚其積聚，以環州為武成軍。癸卯，事聞，詔轉運鈐轄司亟發兵捕擊之。
+
+乙巳，以上清宮田園、邸店賜國子監。
+
+戊申，遣入內供奉官王昭明往宜州，召募勇敢人入洞捕擊蠻賊。
+
+徙知虢州滕宗諒知岳州。時中丞王拱辰言其盜用公使錢，止削一官，所坐太輕，故再謫。
+
+庚戌，遼主如魚兒濼。
+
+甲寅，罷陝西四路都部署、經略安撫招討使，復置逐路都部署、經略安撫招討使，從韓琦議也。
+
+以鄭戩為永興軍都部署，兼知永興軍。初，命戩知永興軍，仍兼四路都部署，諫官歐陽修言：「戩雖名都部署，而諸路自各有將，又其大事不令專制，必稟朝廷。假如邊將有大事，先稟於戩，又稟朝廷，朝廷議定下戩，戩始下於沿邊，只此一端，自足敗事。且大事戩既不專，小事又不由戩，則部署一職，虛名可廢。若小事一一問戩，處分合宜，尚有遲緩之失，萬一耳目不及，處置失宜，則為害不細。欲乞落其虛名，只令坐鎮長安，撫民臨政，以為關中之重，而使四路各責其將，則名體皆順，處置合宜。」從之。
+
+丙辰，遼以參知政事杜防為南府宰相。防生子，遼主幸其第，賜其子名旺滿努。
+
+丁巳，詔天章閣侍讀曾公亮刪定審官、三班院、流內銓條貫，從范仲淹請也。
+
+Dịch là: 
+
+Khâm Tông Cung Văn Thuận Đức Nhân Hiếu Hoàng Đế Tĩnh Khang năm thứ 1〈(Kim Thiên Hội năm thứ 4)〉  
+
+Mùa xuân, tháng Giêng, ngày Mậu Thìn mùng 1, Liêu chúa đi đến sông Hỗn Đồng.
+
+Ngày Tân Mùi, giáng Thiên Chương các đãi chế, Quyền Tri Phụng Tường phủ Đằng Tông Lượng làm Tri Hoa châu, chức vụ như cũ; đồng thời thay Phó Đô bộ sứ Trương Kháng làm Tiền hạt bản lộ. Tông Lượng và Kháng đều bị giam ở Bân châu, án chưa xong mà đã có lệnh này, theo lời Tham tri chính sự Phạm Trọng Yêm.
+
+Trước đó, Trọng Yêm hết sức biện bạch rằng Tông Lượng, Kháng và những người khác không có đại quá, xin miễn cho khỏi bị giam. Đến nay lại tâu: "Yến Độ tra xét số tiền Tông Lượng đã dùng ở Kinh châu rất rõ ràng, không có việc xâm chiếm làm của riêng. Trương Kháng mượn tiền công mua vật, trước khi việc phát giác đã hoàn trả xong. Lại vì đổi nhiệm sở mà mượn bạc công, nhưng để lại tiền vật tương đương để bù, đều không có ý che giấu." Tông Lượng và Kháng nhờ đó được miễn tội nặng.
+
+Ngày Nhâm Thân, Ma Tiển ở Tây phiên vào cống.
+
+Ngày Ất Hợi, Kinh vương Nguyên Nghiễm mất. Nguyên Nghiễm tính cẩn thận, tiết kiệm, ít ham muốn, ưa Nho học, thích văn từ. Từng hỏi Vương Hoán ở Hứa Thiện rằng: "Nguyên Hạo đã bình chưa?" Đáp: "Chưa." Ông nói: "Như thế thì cần gì Tể tướng!" Khi ông bệnh, Hoàng đế thân đến tận giường, tự tay pha thuốc, cho lui hết người, nói chuyện lâu, những điều dâng lên phần nhiều là lời trung. Khi mất, truy tặng Thiên sách Thượng tướng quân, Mục, Duyện nhị châu mục, Yên vương, thụy là Cung Túc.
+
+Ngày Bính Tuất, chiếu: "Từ nay thần liêu không được nhân việc tấu cử ân trạch và chức vụ đã ban mà xin cho thân thuộc được khoa danh, chuyển quan, thăng chức đến thông phán trở lên; thân thuộc từng bị giáng quan, giáng chức, cũng không được xin dùng ân trạch mà kéo lên lại; nếu vì liên lụy mà đổi tên khác để tâu xin ấm, thì xử tội nặng."
+
+Ngày Tân Mão, Ty Lễ Thái thường dâng bộ "Thái thường tân lễ", "Khánh Lịch tự nghi" mới tu; ban cho Đề cử, Biên tu quan khí tiền có khác nhau.
+
+Tháng 2, ngày Bính Thân, sai Nội thị mang 3 vạn lạng bạc của Phụng Thần khố đưa xuống Thiểm Tây, mua thóc lúa cứu dân đói.
+
+Ngày Nhâm Dần, Tri Quang Hóa quân Hàn Giáng bị tước danh, đày đến Anh châu quản thúc, Giám áp binh mã Hứa Sĩ Tòng bị truy giáng 3 cấp, đày đến Thư châu quản thúc, vì tội bỏ thành.
+
+Ở Quảng Tây, Man ở Nghi châu là Khu Hy Phạm làm loạn. Hy Phạm là người Tư Ân, xảo quyệt, hơi biết chữ, từng dự thi Tiến sĩ ở Lễ bộ. Cuối niên hiệu Cảnh Hựu, cùng chú là Chính Từ ứng mộ theo quan quân đánh dẹp Man phản ở An Hóa châu. Sau Hy Phạm đánh trống Đăng văn cầu được dùng, việc đưa xuống Nghi châu, Tri châu Phùng Thân Kỷ (馮伸己) nói hắn là kẻ cuồng vọng, đày đến Toàn châu quản thúc. Chính Từ cũng từng tự nói công lao, không được trả lời. Hai người đều thất vọng. Sau Hy Phạm trốn về, cùng Chính Từ dẫn tộc nhân và thủ lĩnh núi Bạch Nhai là Mông Cản (蒙趕), Man động Lệ Ba mưu làm loạn, chọn ngày giết trâu, lập đàn, tế trời, tôn Mông Cản làm Hoàng đế, Chính Từ làm Phụng Thiên Khai Động Kiến Quốc Quế vương, Hy Phạm làm Trọng Thần Vũ Định Quốc Lệnh công, Quế châu Mục, lấy Khu Phi Tích (區丕績) làm Thừa tướng, những người khác đều đặt tên hiệu giả, bổ nhiệm hơn 40 người. Tháng trước, ngày Bính Tý, dẫn 500 người đánh phá Hoàn châu, cướp ấn châu, đốt kho tàng, lấy Hoàn châu làm Vũ Thành quân. Ngày Quý Mão, việc tâu lên, chiếu cho Chuyển vận Tiền hạt ty lập tức phát binh bắt đánh.
+
+Ngày Ất Tị, lấy ruộng vườn, điếm xá của Thượng Thanh cung ban cho Quốc tử giám.
+
+Ngày Mậu Thân, sai Nội nội Cung phụng quan Vương Chiêu Minh đến Nghi châu, chiêu mộ người dũng cảm vào động bắt đánh giặc Man.
+
+Dời Tri Hoa châu Đằng Tông Lượng làm Tri Nhạc châu. Lúc ấy Trung thừa Vương Củng Thần tâu rằng ông ta trộm dùng tiền công sai phái, chỉ giáng một cấp, tội quá nhẹ, nên lại giáng thêm.
+
+Ngày Canh Tuất, Liêu chúa đi đến Ngư Nhi Lạc.
+
+Ngày Giáp Dần, bãi chức Đô bộ sứ, Kinh lược An phủ Chiêu thảo sứ 4 lộ Thiểm Tây, phục đặt Đô bộ sứ, Kinh lược An phủ Chiêu thảo sứ từng lộ, theo lời Hàn Kỳ.
+
+Lấy Trịnh Tiển làm Đô bộ sứ Vĩnh Hưng quân, kiêm Tri Vĩnh Hưng quân. Trước đó, lệnh Tiển làm Tri Vĩnh Hưng quân, vẫn kiêm Đô bộ sứ 4 lộ, Gián quan Âu Dương Tu tâu
+
+Tiển tuy có danh là Đô bộ sứ, nhưng các lộ đều có tướng riêng, mà việc lớn không cho ông ta chuyên quyết, tất phải tâu triều đình. Giả như tướng biên có việc lớn, trước tâu với Tiển, rồi tâu triều đình, triều đình nghị định xong hạ xuống Tiển, Tiển mới hạ lệnh cho dọc biên, chỉ riêng một điều ấy đã đủ làm hỏng việc. Vả lại việc lớn Tiển đã không chuyên, việc nhỏ lại không do Tiển, thì chức Đô bộ sứ chỉ là hư danh, có thể bỏ. Nếu việc nhỏ đều hỏi Tiển, xử trí hợp lý, vẫn có lỗi chậm trễ, vạn nhất tai mắt không kịp, xử trí không hợp, thì hại không nhỏ. Xin bãi hư danh ấy, chỉ để ông ta ngồi trấn Trường An, vỗ dân, coi chính, làm trọng trấn Quan Trung, còn 4 lộ thì mỗi lộ trách nhiệm ở tướng, như thế danh phận đều thuận, xử trí hợp lý."
+Hoàng đế nghe theo.
+
+Ngày Bính Thìn, nước Liêu lấy Tham tri chính sự Đỗ Phòng làm Nam phủ Tể tướng. Phòng có con trai, Liêu chúa đích thân đến nhà, ban tên cho con là Vượng Mãn Nỗ.
+
+Ngày Đinh Tị, chiếu cho Thiên Chương các Thị độc Tăng Công Lượng sửa định điều lệ của Thẩm quan viện, Tam ban viện, Lưu nội thuyên, theo lời xin của Phạm Trọng Yêm.

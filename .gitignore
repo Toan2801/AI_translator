@@ -4,6 +4,7 @@ venv/
 
 # Ignore output files
 output.txt
+out_*
 
 # Python cache
 __pycache__/

@@ -23,7 +23,7 @@ def _call_nguyendu(text: str) -> str:
     resp = requests.post(
         NGUYENDU_URL,
         data=data,
-        timeout=20,
+        timeout=2,
         headers={"User-Agent": "Mozilla/5.0"},
     )
     # đảm bảo decode UTF-8
@@ -213,4 +213,13 @@ def process_file(input_path: str = "input.txt", output_path: str = "output.txt")
 
 
 if __name__ == "__main__":
-    process_file("input.txt", "output.txt")
+    # 1) Ask for input file path
+    input_path = input("Enter input file path (default: input.txt): ").strip()
+    if not input_path:
+        input_path = "input.txt"
+
+    # 2) Ask for output file path
+    output_path = input("Enter output file path (default: output.txt): ").strip()
+    if not output_path:
+        output_path = "output.txt"
+    process_file(input_path, output_path)
